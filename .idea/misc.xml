@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Johnny/AndroidStudioProjects/OnBoardScreenApp/app/src/main/res/drawable/garadient_animation101112.xml" value="0.231" />
+        <entry key="..\:/Users/Johnny/AndroidStudioProjects/OnBoardScreenApp/app/src/main/res/drawable/gradient_animation123.xml" value="0.231" />
+        <entry key="..\:/Users/Johnny/AndroidStudioProjects/OnBoardScreenApp/app/src/main/res/drawable/gradient_animation456.xml" value="0.231" />
+        <entry key="..\:/Users/Johnny/AndroidStudioProjects/OnBoardScreenApp/app/src/main/res/drawable/gradient_animation789.xml" value="0.231" />
+        <entry key="..\:/Users/Johnny/AndroidStudioProjects/OnBoardScreenApp/app/src/main/res/drawable/gradient_background1.xml" value="0.25" />
+        <entry key="..\:/Users/Johnny/AndroidStudioProjects/OnBoardScreenApp/app/src/main/res/drawable/gradient_background10.xml" value="0.231" />
+        <entry key="..\:/Users/Johnny/AndroidStudioProjects/OnBoardScreenApp/app/src/main/res/drawable/gradient_background11.xml" value="0.231" />
+        <entry key="..\:/Users/Johnny/AndroidStudioProjects/OnBoardScreenApp/app/src/main/res/drawable/gradient_background12.xml" value="0.231" />
+        <entry key="..\:/Users/Johnny/AndroidStudioProjects/OnBoardScreenApp/app/src/main/res/drawable/gradient_background2.xml" value="0.2775" />
+        <entry key="..\:/Users/Johnny/AndroidStudioProjects/OnBoardScreenApp/app/src/main/res/drawable/gradient_background3.xml" value="0.1965" />
+        <entry key="..\:/Users/Johnny/AndroidStudioProjects/OnBoardScreenApp/app/src/main/res/drawable/gradient_background4.xml" value="0.231" />
+        <entry key="..\:/Users/Johnny/AndroidStudioProjects/OnBoardScreenApp/app/src/main/res/drawable/gradient_background5.xml" value="0.231" />
+        <entry key="..\:/Users/Johnny/AndroidStudioProjects/OnBoardScreenApp/app/src/main/res/drawable/gradient_background6.xml" value="0.231" />
+        <entry key="..\:/Users/Johnny/AndroidStudioProjects/OnBoardScreenApp/app/src/main/res/drawable/gradient_background7.xml" value="0.231" />
+        <entry key="..\:/Users/Johnny/AndroidStudioProjects/OnBoardScreenApp/app/src/main/res/drawable/gradient_background8.xml" value="0.231" />
+        <entry key="..\:/Users/Johnny/AndroidStudioProjects/OnBoardScreenApp/app/src/main/res/drawable/gradient_background9.xml" value="0.2775" />
+        <entry key="..\:/Users/Johnny/AndroidStudioProjects/OnBoardScreenApp/app/src/main/res/font/font.xml" value="0.303125" />
+        <entry key="..\:/Users/Johnny/AndroidStudioProjects/OnBoardScreenApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Johnny/AndroidStudioProjects/OnBoardScreenApp/app/src/main/res/layout/slider.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
